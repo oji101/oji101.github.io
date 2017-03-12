@@ -1,0 +1,14 @@
+# Site settings
+title: 'Ghidul concurentului la OJI'
+description: 'O colecție de sfaturi pentru concurenții la OJI'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://oji101.github.io" # the base hostname & protocol for your site
+github_username: oji101
+
+# Build settings
+markdown: kramdown
+kramdown:
+    input: GFM
+sass:
+    style: compressed
+    sass_dir: _sass
