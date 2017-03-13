@@ -1,6 +1,6 @@
 ---
-layout: resources
-title: "Ghidul concurentului la OJI'
+layout: default
+title: "Ghidul concurentului la OJI"
 description: "O colecție de sfaturi pentru concurenții la olimpiada de
 informatica"
 ---
