@@ -1,7 +1,10 @@
 ---
+# Main css file
 ---
 
 @charset "utf-8";
 
-@import "menu", "anchor", "syntax";
-
+@import "menu";
+@import "anchor";
+@import "syntax";
+@import "justify";
